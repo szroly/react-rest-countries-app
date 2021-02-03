@@ -1,0 +1,15 @@
+.card {
+    display:flex;
+    flex-direction: column;
+    margin: 80px;
+    
+}
+.info {
+    background-color: white;
+    max-width: 200px;
+}
+
+a, a:hover {
+    text-decoration: none;
+    color:black ;
+}
